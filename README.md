@@ -14,7 +14,7 @@ Only one Arduino is used in this, therefore, the receiver and the transmitter ha
 
 * Arduino Uno
 * LDR (photoresistor)
-* 1000 kilo-ohm resistor
+* 1 kilo-ohm resistor
 * LED
 
 ### Schematic
