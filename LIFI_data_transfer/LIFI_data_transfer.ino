@@ -10,7 +10,8 @@
 double photocellReading;    
 // connect Red LED to pin 11 (PWM pin)
 int LEDpin = 11; 
-//Used to minimize and maximize how how or low the brightness of the light can go. To know more, you can read the github page:             
+//Used to minimize and maximize how how or low the brightness of the light can go. To know more, you can read the github page:   
+//https://github.com/AkilaJay/LifiDataTransfer/blob/master/README.md          
 int maxVal = 0;
 int minVal = 0;
 int lastVal =0;
